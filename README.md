@@ -52,8 +52,6 @@ The app workflow is as simple as uploading your voice recording, selecting which
 
 [ESLint](https://eslint.org/), [prettier](https://prettier.io/) - for linting and code formatting
 
-[Namecheap](https://namecheap.com) - for custom subdomain
-
 ## Licence 📚
 
 VoiceCue is an open source project. The feature requests are welcome.
