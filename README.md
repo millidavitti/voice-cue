@@ -4,9 +4,9 @@ Forget about listening to long and boring voice recordings and process them manu
 
 ## About 👀
 
-[VoiceCue](https://cue.madza.dev) lets you find sentiments, tags, entities, and actions in your voice recordings like a DJ.
+[VoiceCue](https://voice-cue-flax.vercel.app/) lets you find sentiments, tags, entities, and actions in your voice recordings like a DJ.
 
-![Preview](https://github.com/madzadev/voice-cue/blob/main/public/media-card.png)
+![Preview](https://github.com/millidavitti/voice-cue/blob/main/public/media-card.png)
 
 The app workflow is as simple as uploading your voice recording, selecting which type of analysis to perform and clicking on the generated cues in the list to instantly navigate to its exact position in the voice recording.
 
